@@ -1,6 +1,8 @@
 ## Demo
 This project uses the [express-typescript-2024](https://github.com/edwinhern/express-typescript-2024) boilerplate
 
+Once the server starts you can test the api endpoints from swagger UI at http://localhost:8080
+
 ### Step-by-Step Guide
 
 #### Step 1: 🚀 Initial Setup
